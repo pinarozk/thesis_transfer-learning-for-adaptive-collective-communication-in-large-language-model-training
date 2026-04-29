@@ -1,1 +1,1 @@
-# Thesis_Transfer-Learning-for-Adaptive-Collective-Communication-in-Large-Language-Model-Training
+Transfer Learning for Adaptive Collective Communication in Large Language Model Training
